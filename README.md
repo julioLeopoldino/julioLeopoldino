@@ -4,6 +4,8 @@
 
 🚀 Atualmente atuando na **Ramo Sistemas**, Atuo como desenvolvedor com foco em integrações entre sistemas, utilizando **C# e APIs RESTful** para criar soluções que realmente conectam e entregam valor. Tenho experiência na construção de endpoints customizados com **JavaScript**, e manipulação de dados com **SQL**, sempre buscando eficiência e escalabilidade.
 
+Estou gostando muito do conhecimento que tenho adquirido a partir de estudos em fundamentos de Cloud(AWS e Google Cloud) aplicados à Analise de Dados, processos de ETL e boas práticas de Python para Data Science.
+
 🎯 Foco atual em **C#, .NET, SQL e SDK**, aplicando boas práticas de **Clean Code, SOLID**.
 
 📍 **São Paulo, SP**
